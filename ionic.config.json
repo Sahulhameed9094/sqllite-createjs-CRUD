@@ -1,0 +1,7 @@
+{
+  "name": "sqllite-createjs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
