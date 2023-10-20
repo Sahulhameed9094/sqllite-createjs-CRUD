@@ -1,0 +1,8 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "sqllite-createjs",
+	"webDir": "www",
+	"server": {
+		"androidScheme": "https"
+	}
+}
