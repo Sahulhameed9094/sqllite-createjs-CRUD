@@ -1,0 +1,8 @@
+{
+	"appId": "com.createjs.app",
+	"appName": "sqllite-createjs",
+	"webDir": "www",
+	"server": {
+		"androidScheme": "https"
+	}
+}
